@@ -1,0 +1,24 @@
+{
+  "name": "NPXCard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "dev": "nodemon card.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "center-text": "^0.1.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.5",
+    "open": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
